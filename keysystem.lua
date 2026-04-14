@@ -17,7 +17,7 @@ local Config = {
     MainScriptURL   = "https://raw.githubusercontent.com/streetst4r/keysystem/refs/heads/main/script.lua", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
-    ShowDiscord     = false,
+    ShowDiscord     = true,
     DiscordURL      = "https://discord.gg/zBhteNDh",
     
     ShowInstagram   = false,
