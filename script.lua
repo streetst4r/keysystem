@@ -7,7 +7,7 @@ local ProtectionConfig = {
     SecretKey = "srtst4r",
     
     -- The name of your Hub (shown in the kick message if they try to bypass)
-    HubName = "Street st4r hub"
+    HubName = "st4r hub"
 }
 
 -- Anti-Bypass Logic: Checks if the Key System successfully set the global variable
@@ -23,6 +23,7 @@ end
 -- 👇 YOUR MAIN SCRIPT CODE STARTS HERE 👇
 -------------------------------------------------------------------------------
 
+print(ProtectionConfig.HubName .. " Loaded Successfully!")
 
 
 --[[
